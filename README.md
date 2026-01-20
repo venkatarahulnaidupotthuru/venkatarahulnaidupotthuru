@@ -19,7 +19,7 @@ Whether it's optimizing a data pipeline or building a scalable API, I focus on w
 
 ### Data Science & AI
 | Python | Pandas/NumPy | SQL |
-|-------|------------|------------|-----|-------|
+|-------|------------|-------|
 | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) |
 
 
