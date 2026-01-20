@@ -11,7 +11,7 @@ Whether it's optimizing a data pipeline or building a scalable API, I focus on w
 
 | LinkedIn | GitHub | Email |
 |---------|--------|-------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) | [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/your-username) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/p-venkata-rahul-naidu-526897321/)) | [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/venkatarahulnaidupotthuru/venkatarahulnaidupotthuru)) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulnaidu1902@gmail.com) |
 
 ---
 
